@@ -5,7 +5,7 @@ import java.util.List;
 
 public class Coolblue {
 
-	private static final String Else = null;
+
 	List<String> aankopen = new ArrayList<String>();
 
 	public static void main(String[] args) {
