@@ -16,7 +16,7 @@ public class Coolblue {
 		coolblue.aankopen.add("Oplader");
 		coolblue.aankopen.add("Laptop");
 		coolblue.aankopen.add("Computer");
-		coolblue.aankopen.AddtoAankopen("Telefoon");
+		coolblue.aankopen.add("Telefoon");
 
 		
 		System.out.println(coolblue.aankopen.size());
@@ -39,4 +39,5 @@ public class Coolblue {
 			this.aankopen.add(aankopen);
 		}
 	}
+	 
 }
